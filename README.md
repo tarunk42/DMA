@@ -1,4 +1,4 @@
-# DMA
+# Multiclass Classification for Predicting Faulty Water Pumps in Tanzania
 
 This project aims to develop a predictive model
 for identifying the status of water pumps as functional, in need
